@@ -1,0 +1,7 @@
+fb
+amzn
+orcl
+msft
+aapl
+wmt
+tops
